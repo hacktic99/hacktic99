@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fareed</h1>
-<h3 align="center">A passionate IT Professional from Australia</h3>
+<h3 align="center">A passionate IT Professional</h3>
 
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fcd%2Ffd%2Fa4%2Fcdfda49dd7071ec1623e87f55943ab3e.gif&f=1&nofb=1&ipt=0a4d9191ca6241d31379daa26ee9769694516a8cedb0ff5d47e395c9843e1ef6&ipo=images">
 
