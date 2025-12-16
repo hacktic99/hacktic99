@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hacktic99&show_icons=true&locale=en" alt="hacktic99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hacktic99&" alt="hacktic99" /></p>
+
+Website: https://www.fareedmirranay.com/
